@@ -1,4 +1,4 @@
-# Weather App 🌦️ [Live Demo](https://custom-whether-app.netlify.app/)
+# Weather App 🌦️ - [Live Demo](https://custom-whether-app.netlify.app/)
 
 Welcome to the Weather App! This application provides real-time weather updates, including temperature, humidity, and wind speed, for any city you enter. It is built using HTML, CSS, and JavaScript, leveraging the OpenWeatherMap API to fetch weather data.
 
