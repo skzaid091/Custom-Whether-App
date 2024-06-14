@@ -26,3 +26,45 @@ Welcome to the Weather App! This application provides real-time weather updates,
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/weather-app.git
+
+2. **Navigate to the project directory**
+   ```bash
+   cd weather-app
+
+3. **Open app.html in your browser through VS Code (Live Server)**
+
+4. **API Key Configuration**
+   -Replace the apiKey variable in app.js with your own API key from OpenWeatherMap.
+   ```bash
+   const apiKey = "your_api_key_here";
+
+### File Structure
+weather-app/
+│
+├── images/
+│   ├── clear.png
+│   ├── clouds.png
+│   ├── drizzle.png
+│   ├── mist.png
+│   ├── rain.png
+│   ├── search.png
+│   └── weather-app-screenshot.png
+│
+├── app.html
+├── app.css
+└── app.js
+
+### How to Use the App 📖
+1. Enter the city name in the search bar.
+2. Click the search button to fetch the weather data.
+3. The app will display the current temperature, humidity, and wind speed for the entered city.
+
+### Contributing 🤝
+- Contributions are welcome! Feel free to submit a Pull Request.
+
+  Contact 📧
+Feel free to reach out for any questions or feedback!
+
+Email: skzaid091@gmail.com
+GitHub: [your-username](http://github.com/skzaid091)
+Happy coding! 😊
