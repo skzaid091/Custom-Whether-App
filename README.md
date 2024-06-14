@@ -49,5 +49,5 @@ Welcome to the Weather App! This application provides real-time weather updates,
 Feel free to reach out for any questions or feedback!
 
 - Email: skzaid091@gmail.com
-- GitHub: [your-username](http://github.com/skzaid091)
+- GitHub: [My Profile](http://github.com/skzaid091)
   Happy coding! 😊
